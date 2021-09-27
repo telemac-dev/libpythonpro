@@ -1,0 +1,16 @@
+appdirs==1.4.4
+charset-normalizer==2.0.6
+conda==4.3.16
+distlib==0.3.1
+filelock==3.0.12
+flake8==3.9.2
+mccabe==0.6.1
+pipenv==2020.8.13
+pycodestyle==2.7.0
+pycosat==0.6.3
+pyflakes==2.3.1
+ruamel.yaml==0.16.12
+ruamel.yaml.clib==0.2.2
+virtualenv==20.0.31
+virtualenv-clone==0.5.4
+-r requirements.txt
